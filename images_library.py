@@ -9,12 +9,24 @@ import glob
 
 def openImage(path):
     im = Image.open(path)
-    return np.array(im)
+    return np.array(im, dtype= np.int32)
 
-def plotImage(imArray, vmin=2000, vmax=2300):
+def plotImage(imArray, bounds=[None, None]):
+    if bounds==[None, None]:
+        vmin, vmax = np.quantile(imArray, [0.02, 0.98])
     fig, ax = plt.subplots(1,1)
-    ax.imshow(imArray, vmin=vmin, vmax=vmax)
+    show=ax.imshow(imArray, vmin=vmin, vmax=vmax)
+    fig.colorbar(show)
     return 
+
+def histImage(imArray, bins=None):
+    if bins==None:
+        vmin, vmax = np.quantile(imArray, [0.002, 0.998])
+        bins=np.linspace(vmin-0.5, vmax+0.5, int(vmax-vmin+2) )
+    fig, ax = plt.subplots(1,1)
+    ax.hist(imArray[200,:], bins=bins, alpha=0.4)
+    return 
+
 
 def findROI(imArray, x, y, centerX, centerY, r=12, default_value=100):
     d=np.sqrt ((x-centerX)**2 + (y-centerY)**2)
@@ -32,7 +44,7 @@ def fillDict(nameDict, fileList, word):
     return 
 
 def diffImage(imArray1, imArray2): 
-    return np.abs(imArray1-imArray2)
+    return imArray1-imArray2
 
 def diffImDark(dict, imDark ):
     imDiff = []
