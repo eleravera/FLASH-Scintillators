@@ -1,0 +1,315 @@
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_1.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542872872
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_1.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4019557
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_1.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4019584
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_2.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 543098704
+Signal - (mean): 2071
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_2.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4020754
+Signal - (mean): 2071
+Signal - (stdev): 2
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_2.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4021235
+Signal - (mean): 2071
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_3.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 543042013
+Signal - (mean): 2071
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_3.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4020548
+Signal - (mean): 2071
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_3.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4020666
+Signal - (mean): 2071
+Signal - (stdev): 2
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_4.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542986079
+Signal - (mean): 2071
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_4.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4019661
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_4.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4020480
+Signal - (mean): 2071
+Signal - (stdev): 2
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_5.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542974369
+Signal - (mean): 2071
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_5.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4020232
+Signal - (mean): 2071
+Signal - (stdev): 2
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_5.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4019919
+Signal - (mean): 2071
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_6.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542929208
+Signal - (mean): 2071
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_6.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4019318
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_6.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4020001
+Signal - (mean): 2071
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_8.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542805193
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_8.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4018532
+Signal - (mean): 2070
+Signal - (stdev): 2
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_8.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4018794
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_9.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542752614
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_9.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4018046
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_9.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4018741
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_10.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542700997
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_10.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4018075
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_10.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4017820
+Signal - (mean): 2069
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_11.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542632900
+Signal - (mean): 2069
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_11.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4017478
+Signal - (mean): 2069
+Signal - (stdev): 2
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_11.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4017541
+Signal - (mean): 2069
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_12.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542637322
+Signal - (mean): 2069
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_12.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4017565
+Signal - (mean): 2069
+Signal - (stdev): 2
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_12.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4017514
+Signal - (mean): 2069
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_13.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542677430
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_13.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4017703
+Signal - (mean): 2069
+Signal - (stdev): 2
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_13.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4017904
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_14.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542654916
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_14.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4017679
+Signal - (mean): 2069
+Signal - (stdev): 2
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_14.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4018168
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_15.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542668019
+Signal - (mean): 2070
+Signal - (stdev): 8
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_15.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4017941
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_15.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4018056
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_16.TIF
+ROI - center X, Y: 0, 0
+ROI - R, N of pixels: 0, 262144
+Signal - (integral): 542737526
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_16.TIF
+ROI - center X, Y: 100, 100
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4018181
+Signal - (mean): 2070
+Signal - (stdev): 3
+
+File: 20221102_Flash/2022_11_02_flash_1mm/pdd/buio_16.TIF
+ROI - center X, Y: 400, 400
+ROI - R, N of pixels: 25, 1941
+Signal - (integral): 4018600
+Signal - (mean): 2070
+Signal - (stdev): 3
+

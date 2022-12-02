@@ -33,6 +33,7 @@ def histImage(imArray, bins, title =""):
     fig, ax = plt.subplots(1,1, figsize=(3,3))
     ax.hist(np.concatenate(imArray), bins=bins, alpha=0.4)
     fig.suptitle(title)    
+    ax.set_yscale('log')
     return 
 
 def histImageROI(imArray, ROI, bins, title=""):
